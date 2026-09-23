@@ -1,0 +1,6 @@
+{
+  "name": "Automated Calendar Scheduling Assistant",
+  "description": "Conversational AI agent that schedules and manages calendar events via Gemini function calling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
